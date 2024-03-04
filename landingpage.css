@@ -1,0 +1,33 @@
+body{
+  background: url(https://images.unsplash.com/photo-1459755486867-b55449bb39ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80);
+  background-size: cover; 
+  background-position-y: top;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+html{
+  height: 100%;
+}
+
+#content{
+    text-align: center;
+    padding-top: 25%;
+}
+
+h1 ,h3{
+    color: black;
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color:white;
+}
+
+.navbar-inverse .navbar-brand
+{
+  color: white;
+}
+
+hr{
+  width: 400px;
+}
