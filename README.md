@@ -10,9 +10,6 @@ A clean, responsive, and simple landing page for a coffee brand built using HTML
 - 💡 Google Fonts for elegant typography
 - 📱 Mobile-friendly layout using Bootstrap Grid
 
-## 🖼️ Demo
-
-> _Add a live link or screenshot here if hosted (e.g., GitHub Pages)_
 
 
 ## 🛠️ Technologies Used
